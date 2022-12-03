@@ -1,6 +1,6 @@
-# Meu Curso de GIT
+## Meu Curso de GIT
 
-## Inicializando um Projeto Rapidamente
+### Inicializando um Projeto Rapidamente
 
 1 - Crie um novo repositório no github **(público ou privado)**.
 

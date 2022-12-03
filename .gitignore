@@ -1,0 +1,5 @@
+*.txt
+planilha.*
+*.doc*
+*.ppt
+.DS_Store

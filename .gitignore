@@ -1,5 +1,5 @@
 *.txt
-planilha.*
+*.xls
 *.doc*
 *.ppt
 .DS_Store

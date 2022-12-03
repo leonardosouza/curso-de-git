@@ -1,5 +1,6 @@
-*.txt
-*.xls
-*.doc*
-*.ppt
 .DS_Store
+office
+*.ppt*
+*.doc*
+*.xls*
+*.txt*

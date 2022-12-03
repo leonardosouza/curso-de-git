@@ -1,0 +1,7 @@
+echo "# Meu Curso de GIT" >> README.md
+git init
+git add README.md
+git commit -m "iniciando o projeto"
+git branch -M main
+git remote add origin https://github.com/leonardosouza/curso-de-git.git
+git push -u origin main

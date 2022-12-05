@@ -1,6 +1,6 @@
 ## ![Dog](https://pipz.com/static/images/blog/eddie.png) Meu Curso de GIT ![Dog](https://pipz.com/static/images/blog/eddie.png)
 
-### Link para o projeto no [github](https://github.com/leonardosouza/curso-de-git)
+### [Link para o meu projeto](https://github.com/leonardosouza/curso-de-git)
 
 ### Inicializando um Projeto Rapidamente
 

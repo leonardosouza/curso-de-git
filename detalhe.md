@@ -1,3 +1,4 @@
 # Aprendendo sobre GIT Merge
 
-Você verá que nem tudo dará certo!
+Você verá um conflito rolando aqui
+que nem tudo dará certo!

@@ -6,5 +6,3 @@
 
 Se você não fizer, ocorrerá um conflito aqui..
 Então você vai perceber que nem tudo dará certo!
-
-A vida é assim!

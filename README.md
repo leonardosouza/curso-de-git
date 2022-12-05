@@ -1,4 +1,4 @@
-## Meu Curso de GIT
+## ![Dog](https://pipz.com/static/images/blog/eddie.png) Meu Curso de GIT ![Dog](https://pipz.com/static/images/blog/eddie.png)
 
 ### Inicializando um Projeto Rapidamente
 

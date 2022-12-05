@@ -1,7 +1,5 @@
 ## ![Dog](https://pipz.com/static/images/blog/eddie.png) Meu Curso de GIT ![Dog](https://pipz.com/static/images/blog/eddie.png)
 
-### Link para o projeto no [github](https://github.com/leonardosouza/curso-de-git)
-
 ### Inicializando um Projeto Rapidamente
 
 1 - Crie um novo repositório no github **(público ou privado)**.
@@ -49,3 +47,5 @@ git remote add origin https://github.com/leonardosouza/curso-de-git.git
 ```bash
 git push -u origin main
 ```
+
+### [Link do Projeto](https://github.com/leonardosouza/curso-de-git)

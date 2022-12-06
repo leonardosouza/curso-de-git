@@ -3,8 +3,14 @@ PÁGINA DE REF: https://jamesons.com.br/conheca-todas-as-super-equipes-atuais-da
 1 - CRIAR UM NOVO REPOSITORIO (SUPER-EQUIPES)
 
 2 - CRIAR UMA PÁGINA PRINCIPAL PARA LISTAR AS SUPER-EQUIPES. EX:
+
 README.MD
---------- - VINGADORES (vingadores.md) - X-MEN (xmen.md) - GUARDIÕES DA GALAXIA (guardioes.md) - X-FORCE (xforce.md) - LEGION OF X (legionofx.md)
+--------- 
+- VINGADORES (vingadores.md) 
+- X-MEN (xmen.md)
+- GUARDIÕES DA GALAXIA (guardioes.md)
+- X-FORCE (xforce.md) 
+- LEGION OF X (legionofx.md)
 
 3 - AO CLICAR EM CADA SUPER-EQUIPE, A PÁGINA CORRESPONDENTE DEVE SER ABERTA
 
